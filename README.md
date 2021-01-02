@@ -1,4 +1,4 @@
-# Python web scaping script with Docker
+# Python web scraping script deployed with Docker
 
 Built with python version 3.9.1 and Docker version 20.10.0.
 
