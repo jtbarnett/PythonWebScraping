@@ -8,4 +8,4 @@ This script searches the top movies on IMDB (http://www.imdb.com/chart/top) and 
 
 ## Build and Run
 
-To build with Dockerfile run `docker build -t IMAGE-NAME .` in your terminal. To run the Docker Image run `docker run -t -i IMAGE-NAME` in your terminal.
+To build with Dockerfile run `docker build -t IMAGE-NAME .` in your terminal. To run the Docker Image run `docker run -t -i IMAGE-NAME` in your terminal and make sure to inclide `-t -i` to enable the terminal and make it interactive.
